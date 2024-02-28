@@ -1,5 +1,3 @@
-# ECommerce-website
-
 # E-Commerce Application
 
 Build an artisinal e-commerce application platform.Connect skilled artisans with a global audience.Showcase handmade products,from exquisite jewellery to artistic home decor.Implement secure shopping carts,smooth payment gateways,and an intuitive checkout process. Nurture creativity and support small businesses through an artisin's dream marketplace!
